@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "408934274071",
+    "project_id": "learn-g9",
+    "storage_bucket": "learn-g9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408934274071:android:e2b227ea03f0dd0d93b852",
+        "android_client_info": {
+          "package_name": "com.pdp.g9_learn_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408934274071-gf2m04i310jpfbt0jfkmdk34slruu2u1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pdp.g9_learn_firebase",
+            "certificate_hash": "689bd7180995d64ef3db68d174727799c9655847"
+          }
+        },
+        {
+          "client_id": "408934274071-42hu3a4nleo7ifrrfda8i8vq9rfafad1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnuA5fvwqVuFS37wJJIq1u4RU-yuwNfOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408934274071-42hu3a4nleo7ifrrfda8i8vq9rfafad1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "408934274071-a6t29n6j2hla857dtriisu9me5stalep.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pdp.g9LearnFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
